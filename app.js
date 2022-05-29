@@ -70,7 +70,7 @@ app.post('/upload', upload.single("image"), async (req, res) => {
 
 
 
-server.listen(process.env.port || 5002, ()=>{
+server.listen(process.env.PORT || 5002, ()=>{
     console.log("Files server is running..."); 
 });
  
