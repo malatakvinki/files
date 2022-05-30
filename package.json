@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {     
     "aws-sdk": "^2.1099.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
